@@ -1,5 +1,5 @@
 # power-pushwoosh
-A little Powershell wrapper for send PushWoosh notifications using the [PushWoosh Remote API](http://docs.pushwoosh.com/docs/createmessage)
+A little Powershell wrapper for send Pushwoosh notifications using the [Pushwoosh Remote API](http://docs.pushwoosh.com/docs/createmessage)
 
 See Wiki page...
 
